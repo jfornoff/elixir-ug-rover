@@ -3,6 +3,8 @@
 This is the scaffolding repository for the Rover Kata implemented at the Elixir UG
 Cologne on 5th June 2018.
 
+[Guidelines](http://kata-log.rocks/mars-rover-kata)
+
 ## Testing
 
 To run all unskipped tests, execute:
